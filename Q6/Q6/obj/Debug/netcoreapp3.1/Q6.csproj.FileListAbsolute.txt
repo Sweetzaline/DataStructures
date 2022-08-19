@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.exe
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.deps.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.dll
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\bin\Debug\netcoreapp3.1\Q6.pdb
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.dll
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.pdb
+C:\Users\Amit Pegu\Desktop\DataStructures\Q6\Q6\obj\Debug\netcoreapp3.1\Q6.genruntimeconfig.cache
