@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.exe
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.deps.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.dll
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\bin\Debug\netcoreapp3.1\Q4.pdb
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.dll
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.pdb
+C:\Users\Amit Pegu\Desktop\DataStructures\Q4\Q4\obj\Debug\netcoreapp3.1\Q4.genruntimeconfig.cache
